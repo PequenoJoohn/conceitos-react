@@ -11,5 +11,14 @@ header.header {
     display: flex;
     align-items: center;
     justify-content: center;
+
+    h1 {
+      margin-left: 0.5rem;
+      color: #fff;
+
+      span {
+        font-weight: 100;
+      }
+    }
   }
 }
